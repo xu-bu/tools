@@ -10,3 +10,4 @@
 /.history/
 *.spec
 dist
+/build/
